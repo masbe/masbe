@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masbe
 - 👀 I’m interested in increasing my coding skills
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on some things in the future
 - 📫 https://www.linkedin.com/in/brianfinnegan/
 
